@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Bioinformatics data files
+*.bam
+*.fastq.gz
+*.vcf
+
+# Results directories
+results/
+output/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
